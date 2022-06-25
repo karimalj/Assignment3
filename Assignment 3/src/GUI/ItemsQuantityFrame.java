@@ -1,6 +1,6 @@
-package GUI;
+//This part was written by Jorge Martinez-Burgos Ortiz
 
-#This part was written by Jorge Martinez-Burgos Ortiz
+package GUI;
 
 import javax.swing.*;
 import java.awt.*;
