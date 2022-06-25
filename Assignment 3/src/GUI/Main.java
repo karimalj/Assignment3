@@ -6,10 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hello World");
-		System.out.print("Hello World");
-		System.out.print("Hello World");
-		
-		System.out.print("Lets get this done");
 		
 	}
 
