@@ -55,8 +55,6 @@ public class ItemsQuantityFrame extends JFrame implements ActionListener {
                 int check = Integer.parseInt(text);
                 this.dispose();
 
-
-
             } catch (NumberFormatException nfe) {
                 error.setVisible(true);
             }
