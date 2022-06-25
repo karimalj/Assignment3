@@ -1,5 +1,7 @@
 package GUI;
 
+#This part was written by Jorge Martinez-Burgos Ortiz
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
