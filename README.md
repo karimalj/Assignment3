@@ -4,7 +4,6 @@ Best Shipment using GUI
 Team Members:
 
 Khomidov Behzod 
-
 Al Jamal Abdulkarim 
 
 Asanalieva Dzhamilia
